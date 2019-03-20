@@ -1,0 +1,72 @@
+.logo {
+    background-color: white;
+    display: flex;
+    justify-content: center;
+}
+
+.menu-container {
+    background-color: #005c99;
+    padding: 20px 0;
+    display: flex;
+    justify-content: center;
+}
+
+.menu {
+    display: flex;
+    justify-content: space-between;
+  }
+
+.gallery {
+    padding: 15px 20px;
+}
+
+.gallery:hover {
+    text-decoration: underline;
+}
+
+.menu > div > a, .menu > div > div > a {
+    color: white;
+    text-decoration: none;
+}
+
+.sign{
+    display: flex;
+}
+
+.sign > div {
+    padding: 15px 20px;
+    background-color: #007acc;
+}
+
+.sign > div:not(.logout):hover {
+    background-color: #0099ff;
+}
+
+.login, .logout {
+    margin-left: 20px;
+}
+
+
+.logout:hover {
+    background-color: red;
+}
+
+@media only screen and (max-width: 600px){
+    .menu-container {
+        display: block;
+        padding: 0;
+    }
+
+    .menu, .sign {
+        display: block;
+    }
+
+    .gallery, .sign {
+        text-align: left;
+    }
+
+    .login, .logout {
+        margin: 0;
+    }
+
+}
