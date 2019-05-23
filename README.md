@@ -2,7 +2,7 @@
 Site inspiré d'Instagram développé principalement en PHP et JS
 
 - Gestion de compte utilisateur
-- Naviguer dans la bibliothèaue de photos
+- Naviguer dans la bibliothèque de photos
 - 'Liker' et commenter des photos
 - Prendre des photos avec une webcam avec filtres personnalisés
 
