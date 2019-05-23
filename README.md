@@ -1,5 +1,5 @@
 # camagru
-Site inspiré d'Instagram développé principalement en PHP et JS
+Site inspiré d'Instagram développé principalement en PHP et JS sur une BDD MYSQL
 
 - Gestion de compte utilisateur
 - Naviguer dans la bibliothèque de photos
