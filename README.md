@@ -1,5 +1,10 @@
 # camagru
-Site inspiré d'Instagram
+Site inspiré d'Instagram développé principalement en PHP et JS
+
+- Gestion de compte utilisateur
+- Naviguer dans la bibliothèaue de photos
+- 'Liker' et commenter des photos
+- Prendre des photos avec une webcam avec filtres personnalisés
 
 # Page d'accueil
 ![Screen Shot 2019-03-20 at 4 16 21 PM](https://user-images.githubusercontent.com/33840666/54696732-a62b2380-4b2c-11e9-8eed-9f48a9a693bb.png)
